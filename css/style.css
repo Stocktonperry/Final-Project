@@ -1,0 +1,31 @@
+body {
+  background-color: #79DAE8;
+}
+hr {
+  border-style: none;
+  border-top-style: double;
+  border-color: #242F9B;
+  height: 0;
+  width: 75%;
+  border-width: 5px;
+}
+
+h1 {
+  color: #36AE7C;
+}
+
+h2 {
+  color: #B22727;
+}
+
+h3 {
+  color: #F806CC;
+}
+
+a {
+  color: #B22727;
+}
+
+a:hover {
+  color: green;
+}
